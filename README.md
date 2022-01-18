@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jimmy-muhyeon
+- 👋 Hi, I’m Jimmy
 - 👀 I’m interested in global talent acquisition
 - 🌱 I’m currently helping global talents find suitalbe job opportunities
 - 📫 Graduated from Purdue University in 2015, majoring Economics
