@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Jimmy
-- 👀 I’m interested in global talent acquisition
-- 🌱 I’m currently helping global talents find suitalbe job opportunities
-- 📫 Graduated from Purdue University in 2015, with Economics major
+- 👋 Hi
+- 👀 Farming airdrops
+- 🌱 Berachain native
+- 📫 Graduated: Purdue in 2015, ECONOMICS
 
 <!---
 jimmy-muhyeon/jimmy-muhyeon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
